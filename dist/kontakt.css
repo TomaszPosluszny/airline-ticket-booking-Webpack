@@ -1,0 +1,12 @@
+body {
+  background-color: red; }
+  body h1 {
+    color: blue; }
+
+.autoprefixer {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none; }
+
+
+/*# sourceMappingURL=kontakt.css.map*/

@@ -1,6 +1,6 @@
 const sum  = require("./sum").sum;
 import { sum2 } from "./sum2";
-import { style } from './css/index.scss';
+
 import Icon from "./assets/img/proba.png";
 
 console.log("Hello World");
